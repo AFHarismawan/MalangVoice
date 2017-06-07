@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">MalangVoice</string>
+    <string name="action_settings">Settings</string>
+    <string name="rss_error">An error occurred while downloading the rss feed.</string>
+
+    <string-array name="nav_menu">
+        <item>Beranda</item>
+        <item>Kanal</item>
+        <item>Informasi</item>
+    </string-array>
+
+    <string-array name="nav_child_kanal">
+        <item>Malang Raya</item>
+        <item>Halokes</item>
+        <item>Olahraga</item>
+        <item>Ekbis</item>
+        <item>Tekno</item>
+        <item>Paitun Gundul</item>
+        <item>Uklam uklam</item>
+        <item>Mbois Puol</item>
+        <item>Nawak Ewed</item>
+        <item>Opo Maneh</item>
+    </string-array>
+
+    <string-array name="nav_child_kanal_keys">
+        <item>malang-raya</item>
+        <item>halokes</item>
+        <item>olahraga</item>
+        <item>ekbis</item>
+        <item>tekno</item>
+        <item>paitun-gundul</item>
+        <item>uklam-uklam</item>
+        <item>mbois-puol</item>
+        <item>nawak-ewed</item>
+        <item>opo-maneh</item>
+    </string-array>
+
+    <string-array name="nav_child_info">
+        <item>Tentang Kami</item>
+        <item>Redaksi</item>
+        <item>Iklan</item>
+        <item>Pedoman Penulisan Siber</item>
+        <item>Disclaimer</item>
+        <item>Kode Etik Jurnalistik</item>
+    </string-array>
+
+    <string-array name="nav_child_info_keys">
+        <item>417</item>
+        <item>429</item>
+        <item>500</item>
+        <item>23</item>
+        <item>422</item>
+        <item>420</item>
+    </string-array>
+</resources>
